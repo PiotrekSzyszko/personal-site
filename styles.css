@@ -1,7 +1,11 @@
-.main {
-  width: 100%;
-  margin: auto;
+main {
+  display: block;
+  width: 300px;
+  margin: 300px auto;
+  padding: 20px;
   background-color: beige;
   color: gray;
-  font-size: large;
+  font-size: xx-large;
+  border-radius: 20px;
+  border: dotted green;
 }
