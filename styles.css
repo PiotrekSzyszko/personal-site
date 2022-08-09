@@ -8,4 +8,5 @@ main {
   font-size: xx-large;
   border-radius: 20px;
   border: dotted green;
+  text-align: center;
 }
