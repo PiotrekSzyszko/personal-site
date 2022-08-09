@@ -1,10 +1,9 @@
 main {
-  display: block;
   width: 300px;
   margin: 300px auto;
   padding: 20px;
   background-color: beige;
-  color: gray;
+  color: teal;
   font-size: xx-large;
   border-radius: 20px;
   border: dotted green;
